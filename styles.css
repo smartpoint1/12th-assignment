@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* text-align: center; */
+    background-image: url(ca12th\ assignment.jpg);
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    /* height: 100vh; */
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    font-family:"poppins" 'Times New Roman', Times, serif;
+    
+
+}
+form{
+    color: white;
+    width: 600px;
+    background-color: rgb(20, 20, 87);
+    padding: 30px 40px;
+    border-radius: 5px;
+    /* max-width: 100px ;
+    display: flex;
+    flex-direction: column;
+     */
+}
+.con{
+    color: white;
+    
+}
+{margin-top: 20px;
+    
+}
+.expand{
+    width: 560px;
+}
+button{
+    background-color: green;
+    width: 93%;
+    color: white;
+    padding: 8px 0;
+    border-radius: 5px;
+}
